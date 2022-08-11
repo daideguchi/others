@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exts>
+
+<!-- images -->
+	 <ext>
+		<name><![CDATA[image]]></name>
+		<link></link>
+		<icon><![CDATA[gimp.png]]></icon>
+		<pattern><![CDATA[/(bmp$|gif$|ico$|jpeg$|jpg$|png$|tiff$)/i]]></pattern>
+	 </ext>
+
+<!-- txt -->
+	 <ext>
+		<name><![CDATA[txt]]></name>
+		<link></link>
+		<icon><![CDATA[txt.png]]></icon>
+		<pattern><![CDATA[/txt$/i]]></pattern>
+	 </ext>
+
+<!-- pdf -->
+	 <ext>
+		<name><![CDATA[pdf]]></name>
+		<link></link>
+		<icon><![CDATA[pdf.png]]></icon>
+		<pattern><![CDATA[/pdf$/i]]></pattern>
+	 </ext>
+
+<!-- zip -->
+	 <ext>
+		<name><![CDATA[zip]]></name>
+		<link></link>
+		<icon><![CDATA[zip.png]]></icon>
+		<pattern><![CDATA[/(rar$|tar\.gz$|gzip$|tgz$|zip$)/i]]></pattern>
+	 </ext>
+
+<!-- write -->
+	 <ext>
+		<name><![CDATA[write]]></name>
+		<link></link>
+		<icon><![CDATA[wri.png]]></icon>
+		<pattern><![CDATA[/(odg$|odt$|doc$|docx$|txt$|rtf$)/i]]></pattern>
+	 </ext>
+
+<!-- impress -->
+	 <ext>
+		<name><![CDATA[impress]]></name>
+		<link></link>
+		<icon><![CDATA[htm.png]]></icon>
+		<pattern><![CDATA[/(fodp$|odp$|otp$|potm$|potm$|ppsx$|ppsx$|ppsx$|pptm$|pptx$|pptx$|pptx$|uop$)/i]]></pattern>
+	 </ext>
+
+<!-- draw -->
+	 <ext>
+		<name><![CDATA[draw]]></name>
+		<link></link>
+		<icon><![CDATA[cal.png]]></icon>
+		<pattern><![CDATA[/(emf$|eps$|fotg$|otg$|swf$|wmf$)/i]]></pattern>
+	 </ext>
+
+<!-- calc -->
+	 <ext>
+		<name><![CDATA[calc]]></name>
+		<link></link>
+		<icon><![CDATA[cal.png]]></icon>
+		<pattern><![CDATA[/(csv$|dif$|ods$|prn$|slk$|xla$|xlam$|xlr$|xls$|xls$|xlsb$|xlsm$|xlsx$|xlt$|xltm$|xltx$|xlw$)/i]]></pattern>
+	 </ext>
+
+<!-- music -->
+	 <ext>
+		<name><![CDATA[music]]></name>
+		<link></link>
+		<icon><![CDATA[mp3.png]]></icon>
+		<pattern><![CDATA[/(aiff$|alac$|bwf$|caf$|flac$|m4a$|mp3$|ogg$|raw$|riff$|shn$|wav$)/i]]></pattern>
+	 </ext>
+
+<!-- xml -->
+	 <ext>
+		<name><![CDATA[xml]]></name>
+		<link></link>
+		<icon><![CDATA[xml.png]]></icon>
+		<pattern><![CDATA[/(dtd$|xml$|xsl$)/i]]></pattern>
+	 </ext>
+
+<!-- html -->
+	 <ext>
+		<name><![CDATA[html]]></name>
+		<link></link>
+		<icon><![CDATA[htm.png]]></icon>
+		<pattern><![CDATA[/(htm$|html$)/i]]></pattern>
+	 </ext>
+
+<!-- ink -->
+	 <ext>
+		<name><![CDATA[inkscape]]></name>
+		<link></link>
+		<icon><![CDATA[ink.png]]></icon>
+		<pattern><![CDATA[/svg$/i]]></pattern>
+	 </ext>
+
+<!-- css -->
+	 <ext>
+		<name><![CDATA[css]]></name>
+		<link></link>
+		<icon><![CDATA[css.png]]></icon>
+		<pattern><![CDATA[/css$/i]]></pattern>
+	 </ext>
+
+<!-- kml -->
+	 <ext>
+		<name><![CDATA[kml]]></name>
+		<link></link>
+		<icon><![CDATA[kml.png]]></icon>
+		<pattern><![CDATA[/(kml$|kmz$)/i]]></pattern>
+	 </ext>
+
+<!-- java -->
+	 <ext>
+		<name><![CDATA[java]]></name>
+		<link></link>
+		<icon><![CDATA[java.png]]></icon>
+		<pattern><![CDATA[/(jclass$|ja$|jar$|jav$|java$|jhtml$|jsp$)/i]]></pattern>
+	 </ext>
+
+<!-- javascript -->
+	 <ext>
+		<name><![CDATA[javascript]]></name>
+		<link></link>
+		<icon><![CDATA[js.png]]></icon>
+		<pattern><![CDATA[/(js$|jse$)/i]]></pattern>
+	 </ext>
+
+<!-- math -->
+	 <ext>
+		<name><![CDATA[math]]></name>
+		<link></link>
+		<icon><![CDATA[mth.png]]></icon>
+		<pattern><![CDATA[/(odf$|mml$)/i]]></pattern>
+	 </ext>
+
+<!-- base -->
+	 <ext>
+		<name><![CDATA[base]]></name>
+		<link></link>
+		<icon><![CDATA[sba.png]]></icon>
+		<pattern><![CDATA[/(accdb$|dbf$|ldf$|mdb$|mde$|mdf$|ndf$|odb$|sql$|udl$)/i]]></pattern>
+	 </ext>
+
+<!-- php -->
+	 <ext>
+		<name><![CDATA[php]]></name>
+		<link></link>
+		<icon><![CDATA[php.png]]></icon>
+		<pattern><![CDATA[/php$/i]]></pattern>
+	 </ext>
+
+
+<!-- sketchup -->
+	 <ext>
+		<name><![CDATA[sketchup]]></name>
+		<link></link>
+		<icon><![CDATA[skp.png]]></icon>
+		<pattern><![CDATA[/(skp$|skb$)/i]]></pattern>
+	 </ext>
+
+
+<!-- video -->
+	 <ext>
+		<name><![CDATA[video]]></name>
+		<link></link>
+		<icon><![CDATA[vlc.png]]></icon>
+		<pattern><![CDATA[/(3g2$|3gp$|asf$|avi$|bik$|dif$|dv$|flv$|ifo$|m2p$|m2ts$|m4P$|m4v$|mk3d$|mka$|mks$|mkv$|mov$|mp2$|mp4$|mp4a$|mp4v$|mpa$|mpeg$|mpg$|mts$|oga$|ogg$|ogm$|ogv$|ogx$|ps$|qt$|qt3$|qtr$|qtx$|ram$|rm$|rpm$|ts$|tsa$|tsv$|vob$|vro$|wlmp$|wma$|wmp$|wmv$|xvid$)/i]]></pattern>
+	 </ext>
+
+<!-- unknown -->
+	 <ext>
+		<name><![CDATA[?]]></name>
+		<link></link>
+		<icon><![CDATA[unknown.png]]></icon>
+		<pattern><![CDATA[/(.)/]]></pattern>
+	 </ext>
+</exts>

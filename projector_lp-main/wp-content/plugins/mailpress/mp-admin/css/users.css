@@ -1,0 +1,25 @@
+/* users */
+
+
+th#title {
+	padding: 0;
+}
+
+th.column-user_name, th.column-user_name {
+	width: 8%;
+}
+
+
+/* addons */
+
+th.column-newsletters, 
+th.column-mailinglists,
+th.column-comments {
+	width: 20%;
+}
+
+/* */
+
+th.column-date {
+	width : 100px !important;
+}

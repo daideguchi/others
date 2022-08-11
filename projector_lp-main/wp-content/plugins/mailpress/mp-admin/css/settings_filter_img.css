@@ -1,0 +1,40 @@
+/* settings filter_img */
+
+label.align {
+	font-size: 11px;
+	height:15px;
+	padding:0 0 0 28px;
+	margin:0 1em 0 0;
+}
+
+.image-align-none-label {
+	background: url(../images/align.png) no-repeat scroll 0 0 transparent;
+}
+
+.image-align-left-label {
+	background: url(../images/align.png) no-repeat scroll 0 -15px transparent;
+}
+
+.image-align-center-label {
+	background: url(../images/align.png) no-repeat scroll 0 -30px transparent;
+}
+
+.image-align-right-label {
+	background: url(../images/align.png) no-repeat scroll 0 -45px transparent;
+}
+td.nobd {
+	border:none;
+}
+div.filter-img{
+	width:595px;
+	margin:1px;
+	padding:3px;
+}
+
+textarea.courier, td.courier {
+	font-family:Courier, "Courier New", monospace;
+}
+
+input#attach-none {
+	margin-right:10px;
+}

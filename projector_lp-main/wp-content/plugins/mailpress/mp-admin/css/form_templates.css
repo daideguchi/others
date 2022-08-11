@@ -1,0 +1,38 @@
+/* form_templates */
+
+
+.fileedit-sub {
+	line-height:180%;
+	padding:10px 0 8px;
+}
+
+.CodeMirror-line-numbers {
+				/* class .editbox in xmlcolors.css */
+	margin: 0;
+	padding: .4em;
+	font-family: monospace;
+	font-size: 10pt;
+	color: black;
+	line-height: normal;
+
+				/* body style inline */
+	border-width:0pt;
+	white-space:nowrap;
+
+	background-color: #eee;
+}
+
+.CodeMirror-line-numbers div {
+
+	font-family: monospace;
+	font-size: 10pt;
+
+/* specific to line numbers */
+	color: #aaa;
+	text-align: right;
+}
+
+div.template {
+	border:1px solid #c0c0c0;
+	padding:0px;
+}

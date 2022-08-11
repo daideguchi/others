@@ -1,0 +1,18 @@
+ul.fixed-bottom-menu {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+ul.fixed-bottom-menu li {
+	float: left;
+	list-style-type: none;
+	text-align: center;
+}
+.fixed-bottom-menu li a {
+	display: block;
+	padding-bottom: env(safe-area-inset-bottom);
+	text-decoration: none;
+}

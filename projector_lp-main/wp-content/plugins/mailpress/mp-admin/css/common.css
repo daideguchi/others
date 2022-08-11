@@ -1,0 +1,109 @@
+
+/* autorefresh */
+
+#mailpress-refresh-counter-wrap {
+	float: right;
+	height: 28px;
+	margin: 0 0 0 6px;
+}
+
+#mailpress-refresh-counter-wrap #mailpress-refresh-link {
+	border-top: none;
+	background: rgb(255, 251, 204);
+	-webkit-box-shadow: 0px 1px 1px -1px rgba(0,0,0,0.1);
+	box-shadow:         0px 1px 1px -1px rgba(0,0,0,0.1);
+}
+
+.mp_refresh::after {
+	content: "\f335" !important;
+	padding: 3px 0 0 5px !important;
+	vertical-align: middle !important;
+}
+
+
+/* mp_icons ... */
+
+.mp_browser {
+	background:url('../images/browsers.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	padding: 0;
+	margin: 2px 5px;
+	float: left;
+}
+.mp_device {
+	background:url('../images/devices.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	padding: 0;
+	margin: 2px 5px;
+	float: left;
+}
+.mp_domain {
+	background:url('../images/domains.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	padding: 0;
+	margin: 2px 5px;
+	float: left;
+}
+.mp_ext {
+	background:url('../images/exts.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	padding: 0;
+	margin: 2px 5px;
+	float: left;
+}
+.mp_flag {
+	background:url('../images/flags.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:11px;
+	padding : 0;
+	margin : 5px 0 0 0;
+	float: right;
+}
+.mp_icon {
+	background:url('../images/icons.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	margin:0 5px 0 3px;
+	display:inline-block;
+	float:right;
+}
+.mp_os {
+	background:url('../images/oss.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	padding: 0;
+	margin: 2px 5px;
+	float: left;
+}
+
+/* */
+
+.nopm {
+	margin:0;
+	padding:0;
+}
+
+.nopmb {
+	margin:0;
+	padding:0;
+	border:none;
+}
+
+.fi {
+	font-style:italic;
+}
+
+.onerror {
+	color: red;
+	font-weight: bold;
+}
+
+.blinkme {
+	animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker { 50% { opacity: 0; } }

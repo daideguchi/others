@@ -1,0 +1,14 @@
+/* settings_roles_and_capabilities */
+
+.crok {
+	background-color:#dfd;
+}
+
+.crko {
+	background-color:#fdd;
+}
+
+.rc-table td, .rc-table th {
+	width:auto;
+	padding: 8px 5px 8px 0;
+}

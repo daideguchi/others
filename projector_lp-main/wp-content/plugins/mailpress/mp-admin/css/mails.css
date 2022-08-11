@@ -1,0 +1,64 @@
+/* mails */
+
+th#title {
+	padding: 0;
+}
+
+th.column-author, th.column-theme {
+	width: 8% !important;
+}
+
+th.column-to {
+	width: 15%;
+	text-align:center;
+}
+
+
+/* addons */
+
+th.column-tracking_openrate, 
+th.column-bounce_handling {
+	width: 75px;
+	text-align:center;
+}
+
+th.column-tracking_unsubscribe,
+th.column-tracking_clicks {
+	padding: 0;
+	width: 85px;
+	text-align:center;
+}
+
+th.column-date {
+	width : 7% !important;
+}
+
+td.column-tracking_openrate, 
+td.column-bounce_handling,
+td.column-tracking_unsubscribe,
+td.column-tracking_clicks {
+	text-align:center;
+}
+
+/* */
+
+th.column-date {
+	width : 100px !important;
+}
+
+/* */
+
+.post-com-count {
+	display:inline;
+	background-image: none;
+}
+.post-com-count span {
+	font-size:14px;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+
+
+
+
+

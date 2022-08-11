@@ -1,0 +1,120 @@
+/* tracking_u */
+
+/* user row */
+
+.column-primary {
+	padding: 8px 10px !important;
+}
+
+/* dashboard widgets */
+
+
+#dashboard-widgets-wrap table {
+	border-spacing:0;
+	padding : 0;
+}
+
+/* metaboxes */
+
+/* System info */
+
+#trackingu005div table {
+	width:80%;
+}
+
+/* Opened, Clicks/day */
+
+#tracking_mp_u007 td, #tracking_mp_u007 th {
+	font-size:11px;
+}
+#tracking_mp_u007 th {
+	width:75px;
+}
+#tracking_mp_u007 td.number {
+	font-weight:bold;
+	text-align:right;
+}
+
+/* System info II */
+
+table#tracking_mp_010, #tracking_mp_010 table {
+	width:100%;
+}
+
+#tracking_mp_010 th.border, #tracking_mp_010 td.border {
+	vertical-align:top;
+	border: silver 1px solid;
+}
+
+#tracking_mp_010 th.i-1 {
+	width:0%;
+}
+
+#tracking_mp_010 th.b-1 {
+	width:100%;
+}
+
+#tracking_mp_010 th.i-2 {
+	width:10%;
+}
+
+#tracking_mp_010 th.b-2 {
+	width:45%;
+}
+
+#tracking_mp_010 th.i-3 {
+	width:5%;
+}
+
+#tracking_mp_010 th.b-3 {
+	width:30%;
+}
+
+#tracking_mp_010 th.i-4 {
+	width:4%;
+}
+
+#tracking_mp_010 th.b-4 {
+	width:22%;
+}
+
+#tracking_mp_010 th.i-5 {
+	width:2.5%;
+}
+
+#tracking_mp_010 th.b-5 {
+	width:18%;
+}
+
+/* */
+
+.num {
+	text-align:right;
+}
+
+.mp_scroll {
+	max-height:16em;
+	overflow-x:hidden;
+	overflow-y:auto;
+}
+
+.postbox-container {
+	width: 49%;
+}
+
+
+.tracking_tac {
+	text-align: center;
+	padding: 0 5px;
+}
+
+table.tracking_nowrap { 
+	width: inherit;
+	table-layout: fixed
+}
+
+td.tracking_nowrap {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}

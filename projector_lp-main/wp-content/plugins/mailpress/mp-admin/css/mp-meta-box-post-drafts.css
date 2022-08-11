@@ -1,0 +1,41 @@
+/* mp_icons ... */
+
+.mp_icon {
+	background:url('../images/icons.png') no-repeat scroll 0 0 transparent;
+	width:16px;
+	height:16px;
+	margin:0 5px 0 3px;
+	display:inline-block;
+	float:right;
+}
+
+.mp_icon_sortable {
+	cursor: move;
+}
+
+#mpdraftchecklist table {
+	border: none;
+	border-bottom: 1px solid #e5e5e5;
+	background-color:transparent;
+}
+
+#mpdraftchecklist table td {
+	padding: 5px;
+}
+
+#mpdraftchecklist table td {
+	width: 35px;
+
+}
+
+#mpdraftchecklist table td.mp_edit {
+	text-align: right;
+}
+
+#mpdraftchecklist table td:nth-child(2) {
+	width: auto;
+}
+
+#mpdraftchecklist table td:nth-child(3) {
+	width: 20px;
+}

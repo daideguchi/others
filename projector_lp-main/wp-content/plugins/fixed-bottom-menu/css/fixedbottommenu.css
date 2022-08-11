@@ -1,0 +1,35 @@
+#fixed-bottom-menu {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.fixed-bottom-menu-container {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	flex-diretion: row;
+	-webkit-flex-wrap: nowrap;
+	-ms-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	-webkit-box-align: stretch;
+	-webkit-align-items: stretch;
+	-moz-box-align: stretch;
+	-ms-flex-align: stretch;
+	align-items: stretch;
+}
+.fixed-bottom-menu-item {
+	text-align: center;
+	-webkit-align-self: baseline;
+	-ms-flex-item-align: baseline;
+	align-self: baseline;
+}
+.fixed-bottom-menu-item a {
+	display: block;
+	padding-bottom: env(safe-area-inset-bottom);
+	text-decoration: none;
+}

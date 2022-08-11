@@ -1,0 +1,11 @@
+/* icon */
+.mp_icon_attachment {background-position:0px 0px;}
+.mp_icon_autoresponder {background-position:-16px 0px;}
+.mp_icon_bounced {background-position:-32px 0px;}
+.mp_icon_mailinglist {background-position:0px -16px;}
+.mp_icon_paused {background-position:-16px -16px;}
+.mp_icon_post {background-position:-32px -16px;}
+.mp_icon_scheduled {background-position:0px -32px;}
+.mp_icon_sortable {background-position:-16px -32px;}
+.mp_icon_trash {background-position:-32px -32px;}
+.mp_icon_unsubscribed {background-position:0px -48px;}

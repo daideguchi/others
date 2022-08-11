@@ -1,0 +1,117 @@
+.dashicons-admin-mailpress::before {
+	content: "\f324";
+	-ms-transform: rotate(180deg); /* IE 9 */
+	-webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+	-moz-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+td.mp_avatar {
+	background-color:#fff;
+	text-align:center;
+	vertical-align:middle;
+}
+td.mp_avatar img.avatar {
+	border:solid #BBD8E7 10px;
+	padding:5px;
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+}
+h3.mp_hndle {
+	background-position:left top;
+	background-repeat:repeat-x;
+	background-color:#EDFBFC;
+	font-size:12px;
+	font-weight:bold;
+	line-height:1;
+	margin:0;
+	padding:7px 9px;
+	text-shadow:0 1px 0 #FFFFFF;	
+
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-khtml-border-top-left-radius: 6px;
+	-khtml-border-top-right-radius: 6px;
+}
+.bkgndc, div.field_type_settings ul.ui-tabs-nav li.ui-state-default, div.field_type_help ul.ui-tabs-nav li.ui-state-default, div#form_settings ul.ui-tabs-nav li.ui-state-default, div#mp_help ul.ui-tabs-nav li.ui-state-default {
+	background-color:#EDFBFC;
+}
+#the-user-list .unapproved, #the-user-list .bounced, #the-user-list .unsubscribed, .settings_html textarea {
+	background-color:#FFFFE0;
+}
+.bd1sc, .settings_form_tabs, .mp_help_tabs, div.field_type_settings ul.ui-tabs-nav li, div.field_type_help ul.ui-tabs-nav li,  div#form_settings ul.ui-tabs-nav li,  div#mp_help ul.ui-tabs-nav li {
+	border:1px solid #8CBDD5;
+}
+
+div.mp_fileupload_bar_backgrnd {
+	background-color: #21759B;
+}
+
+/* settings */
+tr + tr.mp_sep {
+border-top: 2px solid #8CBDD5;
+} 
+
+/* metabox user mailinglists */
+ul#mailinglist-tabs li.tabs {
+	border-color: #dfdfdf;
+}
+
+ul#mailinglist-tabs li.tabs {
+	background-color: #f1f1f1;
+}
+
+#side-sortables #mailinglist-tabs .tabs a {
+	color: #333;
+}
+
+#post-body ul#mailinglist-tabs li.tabs a {
+	color: #333;
+}
+
+.mailinglists .notfound, .mailinglists .notfound th, .mailinglists .notfound td, .addons .inactive, .addons .inactive th, .addons .inactive td, tr.inactive + tr.addon-update-tr .addon-update {
+background-color:#EBEEEF;
+}
+
+
+
+
+/* upload file */
+
+label#mp_fileupload_file {
+	cursor:pointer;
+	height:28px;
+	width:128px;
+	display:block;
+	overflow:hidden;
+}
+
+.mp_fileupload_file [type=file] {
+	cursor:pointer;
+	height:24px;
+	width:132px;
+	margin:0;
+	opacity:0;
+	-moz-opacity:0;
+	filter:progid:DXImageTransform.Microsoft.Alpha( opacity=0 );
+	position:relative;
+}
+
+/* themes */
+
+hr.wp-header-end {
+	margin-bottom: 15px;
+}
+
+/* mailinglists */
+
+.ebeeef {
+	background-color:#ebeeef;
+}

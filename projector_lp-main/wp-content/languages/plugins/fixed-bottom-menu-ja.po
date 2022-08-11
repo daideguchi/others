@@ -1,0 +1,217 @@
+# Translation of Plugins - Fixed Bottom Menu - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Fixed Bottom Menu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-26 16:38:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Fixed Bottom Menu - Stable (latest release)\n"
+
+#: lib/class-fixedbottommenuadmin.php:308
+msgid "https://fbm.riverforest-wp.info/"
+msgstr "https://fbm.riverforest-wp.info/ja/fixed-bottom-menu-%e3%83%a9%e3%82%a4%e3%83%96/"
+
+#: lib/class-fixedbottommenuadmin.php:310
+msgid "Fixed Bottom Menu Live"
+msgstr "Fixed Bottom Menu ライブ"
+
+#: lib/class-fixedbottommenuadmin.php:305
+msgid "Live demo site with filters"
+msgstr "フィルターを使ったライブデモサイト"
+
+#: lib/class-fixedbottommenuadmin.php:272
+msgid "Footer class"
+msgstr "フッタークラス"
+
+#: lib/class-fixedbottommenuadmin.php:218
+msgid "If the footer overlaps the menu and is difficult to see, enter the footer class of the theme you are using in the \"Footer class\" section."
+msgstr "フッターがメニューと重なって見づらい場合は、「フッタークラス」に使用しているテーマのフッタークラスを入力してください。"
+
+#: lib/class-fixedbottommenuadmin.php:216
+msgid "Appearance Settings"
+msgstr "外観設定"
+
+#: lib/class-fixedbottommenuadmin.php:297
+msgid "Stacking order"
+msgstr "重ね順"
+
+#: lib/class-fixedbottommenuadmin.php:246
+#: lib/class-fixedbottommenuadmin.php:264
+msgid "Padding Top"
+msgstr "パディング上"
+
+#: lib/class-fixedbottommenuadmin.php:241
+#: lib/class-fixedbottommenuadmin.php:259
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: lib/class-fixedbottommenuadmin.php:236
+#: lib/class-fixedbottommenuadmin.php:254
+msgid "Menu Height"
+msgstr "メニューの高さ"
+
+#: lib/class-fixedbottommenuadmin.php:225
+msgid "Filters"
+msgstr "フィルター"
+
+#: lib/class-fixedbottommenuadmin.php:224
+msgid "Value"
+msgstr "値"
+
+#: lib/class-fixedbottommenuadmin.php:223
+msgid "Options"
+msgstr "オプション"
+
+#: lib/class-fixedbottommenuadmin.php:130
+msgid "Various links of this plugin"
+msgstr "このプラグインの各種リンク"
+
+#. translators: menu column
+#: lib/class-fixedbottommenuadmin.php:179
+msgid "%1$d : 1 to %1$d"
+msgstr "%1$d : 1 ～ %1$d"
+
+#: lib/class-fixedbottommenuadmin.php:165
+msgid "Column Count"
+msgstr "列数"
+
+#: lib/class-fixedbottommenuadmin.php:322
+msgid "If you experience any problems with the latest version, please contact the support forum. In this case, please specify the browser and device you are using. CSS hacks would be much appreciated."
+msgstr "最新バージョンで問題が発生した場合は、サポートフォーラムまでご連絡ください。その際、お使いのブラウザとデバイスを指定してください。CSS ハックをしていただけると助かります。"
+
+#: lib/class-fixedbottommenuadmin.php:319
+msgid "This is the setting up to version 1.01. You can use this setting by checking the box if you are having problems latest version. Some of the latest themes, such as Twenty Twenty, may have glitches at this setting."
+msgstr "バージョン 1.01 までの設定です。最新バージョンで不具合がある場合はチェックを入れることでこの設定を使うことができます。Twenty Twenty などの最新テーマの中には、この設定で不具合が出るものもあります。"
+
+#: lib/class-fixedbottommenuadmin.php:314
+msgid "Old setting"
+msgstr "古い設定"
+
+#: lib/class-fixedbottommenuadmin.php:330
+msgid "Apply old setting"
+msgstr "古い設定を適用する"
+
+#: lib/class-fixedbottommenuadmin.php:154
+msgid "BUY"
+msgstr "購入"
+
+#: lib/class-fixedbottommenuadmin.php:154
+msgid "https://shop.riverforest-wp.info/fixed-bottom-menu-add-on-icon/"
+msgstr "https://shop-jp.riverforest-wp.info/fixed-bottom-menu-add-on-icon/"
+
+#: lib/class-fixedbottommenuadmin.php:146
+msgid "Sell add-ons that add the following icons."
+msgstr "以下のアイコンを追加するアドオンを販売しています。"
+
+#: lib/class-fixedbottommenuadmin.php:142
+msgid "Add on"
+msgstr "アドオン"
+
+#: lib/class-fixedbottommenuadmin.php:567
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: lib/class-fixedbottommenuadmin.php:412
+msgid "Please make a donation if you like my work or would like to further the development of this plugin."
+msgstr "私はプラグインの開発とサポートを継続させるために寄付を必要としています。"
+
+#. translators: Plugin translation link
+#: lib/class-fixedbottommenuadmin.php:405
+msgid "Translations for %s"
+msgstr "%sの翻訳"
+
+#: lib/class-fixedbottommenuadmin.php:327
+msgid "Support Forums"
+msgstr "サポートフォーラム"
+
+#: lib/class-fixedbottommenuadmin.php:393
+msgid "https://shop.riverforest-wp.info/donate/"
+msgstr "https://shop-jp.riverforest-wp.info/donate/"
+
+#. translators: FAQ Link & Slug
+#: lib/class-fixedbottommenuadmin.php:386
+msgid "https://wordpress.org/plugins/%s/faq"
+msgstr "https://ja.wordpress.org/plugins/%s/faq"
+
+#: lib/class-fixedbottommenuadmin.php:384
+msgid "Version:"
+msgstr "バージョン:"
+
+#: lib/class-fixedbottommenuadmin.php:336
+#: lib/class-fixedbottommenuadmin.php:604
+msgid "Default"
+msgstr "デフォルト"
+
+#: lib/class-fixedbottommenuadmin.php:335
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: lib/class-fixedbottommenuadmin.php:292
+msgid "Max Width"
+msgstr "幅の上限"
+
+#: lib/class-fixedbottommenuadmin.php:287
+msgid "Overlay Color"
+msgstr "オーバーレイの色"
+
+#: lib/class-fixedbottommenuadmin.php:282
+msgid "Text color"
+msgstr "テキスト色"
+
+#: lib/class-fixedbottommenuadmin.php:277
+msgid "Background color"
+msgstr "背景色"
+
+#: lib/class-fixedbottommenuadmin.php:228
+msgid "Font Sizes"
+msgstr "フォントサイズ"
+
+#: lib/class-fixedbottommenuadmin.php:208
+msgid "Text"
+msgstr "テキスト"
+
+#: lib/class-fixedbottommenuadmin.php:204
+msgid "URL"
+msgstr "URL"
+
+#: lib/class-fixedbottommenuadmin.php:195
+msgid "Dashicon"
+msgstr "Dashicon"
+
+#: lib/class-fixedbottommenuadmin.php:414
+msgid "Donate to this plugin &#187;"
+msgstr "このプラグインに寄付 &#187;"
+
+#: lib/class-fixedbottommenuadmin.php:107
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分なアクセス権がありません。"
+
+#: lib/class-fixedbottommenuadmin.php:57 lib/class-fixedbottommenuadmin.php:135
+#: lib/class-fixedbottommenuadmin.php:567
+#: lib/class-fixedbottommenuadmin.php:604
+msgid "Settings"
+msgstr "設定"
+
+#. Author URI of the plugin
+msgid "https://riverforest-wp.info/"
+msgstr "https://riverforest-wp.info/ja/"
+
+#. Author of the plugin
+msgid "Katsushi Kawamori"
+msgstr "Katsushi Kawamori"
+
+#. Description of the plugin
+msgid "Add fixed bottom menu."
+msgstr "下部固定メニューを追加します。"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/fixed-bottom-menu/"
+msgstr "https://ja.wordpress.org/plugins/fixed-bottom-menu/"
+
+#. Plugin Name of the plugin
+msgid "Fixed Bottom Menu"
+msgstr "Fixed Bottom Menu"

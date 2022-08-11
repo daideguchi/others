@@ -1,0 +1,157 @@
+/* settings */
+
+/* icons */
+
+.mp_icon {
+	float: none;
+}
+
+/* help */
+
+.help-tab-content a {
+	color: black;
+}
+
+.help-tab-content th {
+	vertical-align: top;
+	text-align: left;
+	font-weight: bold;
+}
+.help-tab-content th span {
+	font-style: italic;
+	font-weight: normal;
+}
+
+/* tabs */
+
+#settings-tabs li {
+	line-height:26px;
+	list-style:none;
+	float:left;
+	margin:0 10px 0 0;
+}
+
+.mp_tab {
+    padding-bottom: 3px;
+}
+
+.ui-tabs-nav li a {
+	text-decoration:none;
+}
+
+li.ui-tabs-active a span {
+    background: #ccc none repeat scroll 0 0 !important;
+    border-color: #aaa !important;
+    box-shadow: none !important;
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+.fragments {
+	clear:both;
+}
+
+/* */
+
+.startmsg {
+	text-align:left;
+	font-weight:bold;
+	color:red;
+}
+
+.general td {
+	border:none;
+	margin:0;
+	padding:0;
+}
+
+.thtitle {
+	background-color: #ddd;
+	font-style: italic;
+	padding: 20px 10px 10px 20px !important;
+}
+
+.hide {
+	opacity:0;
+	filter:alpha(opacity=0);
+}
+.mask {
+	display:none;
+}
+
+.w40 {
+	width:40%;
+}
+
+.w50 {
+	width:50%;
+}
+
+.w4e {
+	width: 4em;
+}
+
+.vat {
+	vertical-align:top !important;
+}
+
+.nopad {
+	padding:0;
+}
+
+.pr10 {
+	padding:0 10px 5px 0 !important;
+}
+
+td.field {
+	vertical-align:top;
+}
+
+span.italic {
+	font-style: italic;
+	margin-left: 15px;
+	font-weight: normal;
+}
+
+input.form-invalid, input:focus.form-invalid, select.form-invalid, select:focus.form-invalid {
+    border-color: #dc3232 !important;
+    box-shadow: 0 0 2px rgba(204, 0, 0, 0.8);
+}
+
+/* mp_cron */
+
+.em3 {
+	height: 3em;
+}
+
+
+/* subscriptions */
+
+table#subscriptions_newsletter {
+	margin-top:0;
+}
+
+
+/* maps */
+
+#m_prompt_text, #g_prompt_text, #b_prompt_text, #h_prompt_text, #h_1_prompt_text {
+	color: #bbb;
+	padding: 6px 0 0 8px;
+	position: absolute;
+}
+
+table.map_provider th {
+	width:auto;
+}
+
+table.map_provider td {
+	text-align:left;
+}
+
+
+/* */
+
+input.form-invalid, input:focus.form-invalid, select.form-invalid, select:focus.form-invalid {
+    border-color: #dc3232 !important;
+    box-shadow: 0 0 2px rgba(204, 0, 0, 0.8);
+}

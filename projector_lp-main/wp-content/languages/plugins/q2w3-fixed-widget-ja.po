@@ -1,0 +1,97 @@
+# Translation of Plugins - Q2W3 Fixed Widget for WordPress - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Q2W3 Fixed Widget for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 14:50:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Q2W3 Fixed Widget for WordPress - Stable (latest release)\n"
+
+#: q2w3-fixed-widget.php:466
+msgid "Disable MutationObserver:"
+msgstr "MutationObserver を無効にする: "
+
+#: q2w3-fixed-widget.php:446
+msgid "Disable Height:"
+msgstr "高さを無効化:"
+
+#: q2w3-fixed-widget.php:445
+msgid "Disable Width:"
+msgstr "幅を無効化:"
+
+#: q2w3-fixed-widget.php:444
+msgid "milliseconds"
+msgstr "ミリ秒"
+
+#: q2w3-fixed-widget.php:444
+msgid "Refresh interval:"
+msgstr "更新間隔:"
+
+#: q2w3-fixed-widget.php:443
+msgid "Stop ID:"
+msgstr "停止 ID:"
+
+#: q2w3-fixed-widget.php:441 q2w3-fixed-widget.php:442
+#: q2w3-fixed-widget.php:445 q2w3-fixed-widget.php:446
+msgid "px"
+msgstr "px"
+
+#: q2w3-fixed-widget.php:428
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: q2w3-fixed-widget.php:395
+msgid "Compatibility"
+msgstr "互換性"
+
+#: q2w3-fixed-widget.php:394
+msgid "General Options"
+msgstr "一般設定"
+
+#: q2w3-fixed-widget.php:262
+msgid "Fixed widget"
+msgstr "Fixed widget"
+
+#: q2w3-fixed-widget.php:469
+msgid "Use jQuery(window).load() hook:"
+msgstr "jQuery(window).load() hook を使用する: "
+
+#: q2w3-fixed-widget.php:405
+msgid "Settings saved."
+msgstr "設定が保存されました。"
+
+#: q2w3-fixed-widget.php:396
+msgid "Custom IDs"
+msgstr "カスタム ID"
+
+#: q2w3-fixed-widget.php:292 q2w3-fixed-widget.php:402
+msgid "Fixed Widget Options"
+msgstr "Fixed Widget 設定"
+
+#: q2w3-fixed-widget.php:456
+msgid "Custom HTML IDs (each one on a new line):"
+msgstr "カスタム HTML ID (一行ずつ記入してください): "
+
+#: q2w3-fixed-widget.php:442
+msgid "Margin Bottom:"
+msgstr "下マージン: "
+
+#: q2w3-fixed-widget.php:441
+msgid "Margin Top:"
+msgstr "上マージン: "
+
+#: q2w3-fixed-widget.php:468
+msgid "Inherit widget width from the parent container:"
+msgstr "ウィジェットの幅を親コンテナーから継承: "
+
+#: q2w3-fixed-widget.php:467
+msgid "Enable this option for debug purposes (frontend problems and etc.)"
+msgstr "デバッグの為にこの設定を有効化する (フロントエンドの問題等)"
+
+#: q2w3-fixed-widget.php:469
+msgid "Enable this option only if you have problems with other scroll oriented javascript code"
+msgstr "ほかのスクロール向けの javascript コードと干渉した場合、このオプションを有効化してください。"
